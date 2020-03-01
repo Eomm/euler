@@ -1,0 +1,24 @@
+{
+  "name": "euler",
+  "version": "1.0.0",
+  "description": "Project Euler code https://projecteuler.net/",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap solutions/problem*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eomm/euler.git"
+  },
+  "keywords": [],
+  "author": "Manuel Spigolon <behemoth89@gmail.com> (https://github.com/Eomm)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eomm/euler/issues"
+  },
+  "homepage": "https://github.com/Eomm/euler#readme",
+  "devDependencies": {
+    "standard": "^14.3.1",
+    "tap": "^14.10.6"
+  }
+}
