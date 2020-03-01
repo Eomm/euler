@@ -42,3 +42,7 @@ function isPrime (num) {
   }
   return num !== 1
 }
+
+module.exports = {
+  getNextPrime
+}
