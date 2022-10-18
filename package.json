@@ -1,5 +1,5 @@
 {
-  "name": "euler",
+  "name": "@eomm/euler",
   "version": "1.0.0",
   "description": "Project Euler code https://projecteuler.net/",
   "main": "index.js",
